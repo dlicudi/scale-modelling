@@ -1,1 +1,4 @@
 site_name: Scale Modelling
+theme:
+  name: material
+  custom_dir: overrides
