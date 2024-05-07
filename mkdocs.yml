@@ -1,4 +1,9 @@
 site_name: Scale Modelling
 theme:
   name: material
-  custom_dir: overrides
+  font:
+    text: Roboto
+  palette:
+    scheme: slate
+    primary: brown
+    accent: deep-orange
