@@ -7,3 +7,12 @@ theme:
     scheme: slate
     primary: brown
     accent: deep-orange
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+

@@ -1,7 +1,5 @@
 # Tamiya Paints
 
-- [ ] AS-12 Bare-Metal Silver
-- [ ] AS-6 Olive Drab
 - [x] X-8 Lemon yellow
 - [x] XF-10 Flat brown
 - [x] X-10 Gun metal
