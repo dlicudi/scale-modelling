@@ -1,2 +1,2 @@
-# Scale Modelling Home
+# Home
 
