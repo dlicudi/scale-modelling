@@ -1,3 +1,10 @@
+---
+tags:
+  - Inventory
+  - Tamiya
+  - Paints
+---
+
 # Tamiya Paints
 
 ## X Range

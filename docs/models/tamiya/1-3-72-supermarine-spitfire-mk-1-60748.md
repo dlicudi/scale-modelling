@@ -1,3 +1,10 @@
+---
+tags:
+  - Inventory
+  - Tamiya
+  - Models
+---
+
 # 1/72 SUPERMARINE SPITFIRE MK.1
 
 <div class="grid cards" markdown>

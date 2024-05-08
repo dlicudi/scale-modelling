@@ -1,4 +1,9 @@
 site_name: Scale Modelling
+plugins:
+  - tags:
+      tags_file: tags.md
+  - search:
+      enabled: true
 theme:
   name: material
   font:

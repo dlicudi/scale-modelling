@@ -1,3 +1,10 @@
+---
+tags:
+  - Inventory
+  - AK 3GEN
+  - Paints
+---
+
 # AK 3GEN
 
 - [x] Grey Primer
