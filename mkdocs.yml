@@ -1,6 +1,5 @@
 site_name: Scale Modelling
 theme:
-  custom_dir: material/overrides
   name: material
   font:
     text: Roboto
