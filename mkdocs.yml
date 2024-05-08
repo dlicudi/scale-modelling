@@ -41,8 +41,6 @@ theme:
     - toc.follow
     # - toc.integrate
 
-
-
 markdown_extensions:
   - attr_list
   - md_in_html
