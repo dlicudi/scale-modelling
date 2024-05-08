@@ -7,9 +7,9 @@ tags:
 
 # AK 3GEN
 
-- [x] [Grey Primer](https://ak-interactive.com/product/grey-primer-100ml/)
-- [x] AK11045 DEEP YELLOW
-- [x] AK11132 GREEN GREY
-- [x] AK11148 MEDIUM OLIVE GREEN
-- [x] AK11029 BLACK
-- [x] AK11120 MUD BROWN
+- [x] [GREY PRIMER 100ml](https://ak-interactive.com/product/grey-primer-100ml/)
+- [x] [AK11045 DEEP YELLOW](https://ak-interactive.com/product/deep-yellow-intense/)
+- [x] [AK11132 GREEN GREY](https://ak-interactive.com/product/green-grey-standard/)
+- [x] [AK11148 MEDIUM OLIVE GREEN](https://ak-interactive.com/product/medium-olive-green-standard/)
+- [x] [AK11029 BLACK](https://ak-interactive.com/product/black-intense/)
+- [x] [AK11120 MUD BROWN](https://ak-interactive.com/product/mud-brown-standard/)
